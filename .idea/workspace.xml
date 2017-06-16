@@ -38,8 +38,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/archives/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="62" column="24" lean-forward="false" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+            <state relative-caret-position="150">
+              <caret line="55" column="200" lean-forward="false" selection-start-line="55" selection-start-column="200" selection-end-line="55" selection-end-column="200" />
               <folding />
             </state>
           </provider>
@@ -105,8 +105,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="375" />
-    <option name="y" value="293" />
+    <option name="x" value="359" />
+    <option name="y" value="96" />
     <option name="width" value="1276" />
     <option name="height" value="686" />
   </component>
@@ -125,8 +125,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -187,6 +185,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,11 +282,12 @@
       <workItem from="1497605315517" duration="235000" />
       <workItem from="1497605750689" duration="152000" />
       <workItem from="1497605960218" duration="514000" />
+      <workItem from="1497607116762" duration="62000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5097000" />
+    <option name="totallyTimeSpent" value="5159000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -298,7 +299,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="375" y="293" width="1276" height="686" extended-state="0" />
+    <frame x="359" y="96" width="1276" height="686" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -330,6 +331,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/stylesheets/syntax.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
@@ -737,8 +746,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/archives/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="62" column="24" lean-forward="false" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+        <state relative-caret-position="150">
+          <caret line="55" column="200" lean-forward="false" selection-start-line="55" selection-start-column="200" selection-end-line="55" selection-end-column="200" />
           <folding />
         </state>
       </provider>
