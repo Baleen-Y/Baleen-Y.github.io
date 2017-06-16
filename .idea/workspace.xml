@@ -36,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/blog/archives/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="55" column="594" lean-forward="false" selection-start-line="55" selection-start-column="594" selection-end-line="55" selection-end-column="594" />
+              <caret line="55" column="630" lean-forward="false" selection-start-line="55" selection-start-column="630" selection-end-line="55" selection-end-column="630" />
               <folding />
             </state>
           </provider>
@@ -69,8 +69,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="75" />
-    <option name="y" value="104" />
+    <option name="x" value="455" />
+    <option name="y" value="135" />
     <option name="width" value="1276" />
     <option name="height" value="686" />
   </component>
@@ -89,8 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -223,6 +221,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,14 +312,15 @@
       <workItem from="1497595151444" duration="528000" />
       <workItem from="1497603533959" duration="335000" />
       <workItem from="1497604148843" duration="119000" />
+      <workItem from="1497604348174" duration="48000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3581000" />
+    <option name="totallyTimeSpent" value="3629000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="104" width="1276" height="686" extended-state="0" />
+    <frame x="455" y="135" width="1276" height="686" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -351,6 +352,24 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="4" lean-forward="false" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+          <folding>
+            <element signature="e#2653#2659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/archives/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
@@ -552,7 +571,7 @@
     <entry file="file://$PROJECT_DIR$/blog/archives/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="55" column="594" lean-forward="false" selection-start-line="55" selection-start-column="594" selection-end-line="55" selection-end-column="594" />
+          <caret line="55" column="630" lean-forward="false" selection-start-line="55" selection-start-column="630" selection-end-line="55" selection-end-column="630" />
           <folding />
         </state>
       </provider>
