@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/blog/archives/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="12" selection-end-line="58" selection-end-column="18" />
+              <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="58" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -105,8 +105,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="445" />
-    <option name="y" value="52" />
+    <option name="x" value="187" />
+    <option name="y" value="33" />
     <option name="width" value="1276" />
     <option name="height" value="686" />
   </component>
@@ -283,12 +283,12 @@
       <workItem from="1497605750689" duration="152000" />
       <workItem from="1497605960218" duration="514000" />
       <workItem from="1497607116762" duration="62000" />
-      <workItem from="1497607268008" duration="724000" />
+      <workItem from="1497607268008" duration="759000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5883000" />
+    <option name="totallyTimeSpent" value="5918000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -300,7 +300,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="445" y="52" width="1276" height="686" extended-state="0" />
+    <frame x="187" y="33" width="1276" height="686" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -748,7 +748,7 @@
     <entry file="file://$PROJECT_DIR$/blog/archives/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="12" selection-end-line="58" selection-end-column="18" />
+          <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="58" selection-end-column="14" />
           <folding />
         </state>
       </provider>
